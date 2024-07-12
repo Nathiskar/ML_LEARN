@@ -1,0 +1,5 @@
+numpy 
+pandas 
+seaborn
+sklearn.model_selection -train_test_split(), -svm, 
+sklearn.metrics - accuracy_score()

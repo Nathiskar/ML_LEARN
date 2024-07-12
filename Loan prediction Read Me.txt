@@ -1,0 +1,2 @@
+Loan prediction by using dataset
+predict whether the loan will be given or not using Support Vector Machine
